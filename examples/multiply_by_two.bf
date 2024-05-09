@@ -1,5 +1,5 @@
-, Leggi input utente
------------------------------------------------- Sottrai 48 per estrarre il valore numerico dal carattere ASCII
-[->++<] Mentre n maggiore di 0 aggiungiamo 2 al risultato e togliamo 1 ad n
->++++++++++++++++++++++++++++++++++++++++++++++++ Aggiungi 48 al risultato per ottenere il carattere ASCII
-. Stampa
+, Read user input
+------------------------------------------------ Subtract 48 to obtain the actual value from the ASCII number
+[->++<] While n not 0 subtract 1 from n and add 2 to the result
+>++++++++++++++++++++++++++++++++++++++++++++++++ Add 48 to the result so we get the ascii value for the digit
+. Print it bois

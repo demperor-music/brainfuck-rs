@@ -1,2 +1,2 @@
-+ Aggiungi 1
-[.+] Mentre il numero è maggiore di 0 stampalo e aggiungi 1
++ Add 1
+[.+] While the number's not 0 keep printing its ASCII representation and adding 1 to it
